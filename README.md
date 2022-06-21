@@ -1,5 +1,5 @@
 - Hi, I’m Duncan Beauch; @dbeauch
-- Pursuing a Bachelor of Science in Physics and Bachelor of Arts in Computer Science at the University of Virginia
+- Pursuing a Bachelor Degrees in Physics and Computer Science at the University of Virginia
 - Interested in working in scientific computing industries where I can use skills to create unique projects
 - Working on personal programming simulations
 - How to reach me: duncanrbeauch@gmail.com
